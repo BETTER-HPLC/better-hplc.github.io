@@ -15,6 +15,6 @@ You can find the [current version of BETTER here](https://better-hplc.github.io/
 
 ***
 #### Contact:
-__Do we have a collective email?__ If so, we should put it here: [firstname.surman@uni.ac.uk](mailto:firstname.surman@uni.ac.uk)
+__Do we have a collective email?__ If so, we should put it here: [firstname.surname@uni.ac.uk](mailto:firstname.surname@uni.ac.uk)
 
 ***
