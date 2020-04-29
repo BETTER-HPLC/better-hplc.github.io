@@ -6,6 +6,8 @@ Here is some text, to introduce things, with [links](https://www.google.com/) to
 ***
 ####  Current BETTER:
 You can find the [current version of BETTER here](https://better-hplc.github.io/BETTER_2020_v1.1.pdf), including guidelines on how to get BETTER yourself.
+
+*Remember: More BETTER isn't always best*
    
 ***
 #### Previous versions:
