@@ -1,22 +1,19 @@
+#### BETTER Criteria
 !!! Site under construction!!!
 
-Here is some text, to introduce things, with [links](https://www.google.com/) to relelvant people/things. 
+This page will host the BETTER Criteria for Portable HPLC
+Rahimi et al 2020
 
+BETTER - portaBle fiEld Testing sTandard framEwoRk
 
 ***
 ####  Current BETTER:
 You can find the [current version of BETTER here](https://better-hplc.github.io/BETTER_2020_v1.1.pdf), including guidelines on how to get BETTER yourself.
 
 *Remember: More BETTER isn't always best*
-   
-***
-#### Previous versions:
- __Bold__ and not bold.
- 
-*These versions were BETTER, but now they're not*
 
 ***
 #### Contact:
-__Do we have a collective email?__ If so, we should put it here: [firstname.surname@uni.ac.uk](mailto:firstname.surname@uni.ac.uk)
+[better-hplc@imperial.ac.uk](mailto:better-hplc@imperial.ac.uk)
 
 ***
