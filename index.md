@@ -1,19 +1,13 @@
-#### BETTER Criteria
-!!! Site under construction!!!
+# BETTER - portaBle fiEld Testing sTandard framEwoRk
 
-This page will host the BETTER Criteria for Portable HPLC
-Rahimi et al 2020
+This is landing page of the BETTER Criteria for Portable HPLC.
 
-BETTER - portaBle fiEld Testing sTandard framEwoRk
+You can find the [current version of BETTER here](https://github.com/BETTER-HPLC/better-hplc.github.io), including guidelines on how to get BETTER yourself!
 
-***
-####  Current BETTER:
-You can find the [current version of BETTER here](https://better-hplc.github.io/BETTER_2020_v1.1.pdf), including guidelines on how to get BETTER yourself.
+Rahimi, F., Chatzimichail, S., Saifuddin, A. et al. A Review of Portable High-Performance Liquid Chromatography: the Future of the Field?. Chromatographia (2020). https://doi.org/10.1007/s10337-020-03944-6
 
 *Remember: More BETTER isn't always best*
 
 ***
-#### Contact:
-[better-hplc@imperial.ac.uk](mailto:better-hplc@imperial.ac.uk)
 
-***
+[![](https://github.com/better-hplc/better-hplc.github.io/blob/master/RahimietalChromatographia2020_BETTER_snapshot.png)](https://doi.org/10.1007/s10337-020-03944-6)
