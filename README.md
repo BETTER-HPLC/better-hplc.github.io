@@ -1,4 +1,4 @@
-# BETTER Framework for the Assessment of Portable HPLC Instruments
+# BETTER Criteria for the Assessment of Portable HPLC Instruments
 
 **_TL;DR_**: BETTER helps to assess the development of Portable HPLC instumentation.
 
