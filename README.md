@@ -23,7 +23,7 @@ This project is a collaboration between the Analytical Systems Research group le
 ## How to cite this work
 Rahimi, F., Chatzimichail, S., Saifuddin, A. et al. A Review of Portable High-Performance Liquid Chromatography: the Future of the Field?. Chromatographia (2020). https://doi.org/10.1007/s10337-020-03944-6
 
-[![](https://github.com/better-hplc/better-hplc.github.io/blob/master/RahimietalChromatographia2020_BETTER_snapshot.png)](https://doi.org/10.1007/s10337-020-03944-6)
+[![](https://github.com/better-hplc/better-hplc.github.io/blob/master/chromatographia2020.png)](https://doi.org/10.1007/s10337-020-03944-6)
 
 [1]: https://www.imperial.ac.uk/people/ali.salehi-reyhani
 [2]: https://www.kcl.ac.uk/people/andrew-surman
