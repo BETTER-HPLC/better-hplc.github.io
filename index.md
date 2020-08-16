@@ -10,4 +10,4 @@ Rahimi, F., Chatzimichail, S., Saifuddin, A. et al. A Review of Portable High-Pe
 
 ***
 
-[![](RahimietalChromatographia2020_BETTER_snapshot.png)](https://doi.org/10.1007/s10337-020-03944-6)
+[![](chromatographia2020.png)](https://doi.org/10.1007/s10337-020-03944-6)
